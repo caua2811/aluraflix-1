@@ -1,11 +1,11 @@
 body{
-    background-color: rgba(0, 4, 255, 0.533);
-    color:rgb(168, 214, 254);
+    background-color: rgba(0, 0, 0, 0.533);
+    color:rgb(255, 255, 255);
 font-family: Playwrite Hrvatska Lijeva;
 }
 
 .chamada{
-    background-color: rgb(22, 201, 85);
+    background-color: rgb(101, 1, 184);
     padding-top: 80px;
     padding-bottom: 80px;
     display: flex;
@@ -35,7 +35,7 @@ img{
     padding-left: 20px;
     padding-right: 20px;
     padding-top: 5px;
-    background-color: rgb(166, 189, 16);
+    background-color: rgb(230, 14, 14);
 }
 .categoria-videos{
     display: flex; 
